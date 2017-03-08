@@ -2,6 +2,8 @@
 
 Sometimes it can be tricky to find a local web accessibility meetup. To help you with this and also to get a little overview of what is available we created this list.
 
+*The article [Accessibility and Inclusive Design In-Person Groups](https://www.lireo.com/accessibility-inclusive-design-in-person-groups/) lists meetups as well and has been around much longer than this list. We didn't know about this article when we created our list but hopefully we can help each other in keeping the info up to date.*  
+
 ## Australia
 
 * [Brisbane Web Accessibility & Inclusive Design](https://www.meetup.com/Brisbane-Web-Accessibility/)
