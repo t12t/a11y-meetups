@@ -72,6 +72,7 @@ Sometimes it can be tricky to find a local web accessibility meetup. To help you
 * [Portland Accessibility and User Experience](https://www.meetup.com/Portland-Accessibility-and-User-Experience-Meetup/)
 * [role=drinks San Diego](https://www.meetup.com/role-drinks-SD/)
 * [Seattle Area Accessibility & Inclusive Design](https://www.meetup.com/a11ysea/)
+* [Utah Inclusive Design and Digital Accessibility Meetup](https://www.meetup.com/UtahA11y/)
 
 ## Contribute
 
