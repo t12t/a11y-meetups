@@ -11,6 +11,10 @@ Sometimes it can be tricky to find a local web accessibility meetup. To help you
 * [Perth Web Accessibility & Inclusive Design](https://www.meetup.com/Perth-accessibility/)
 * [Sydney Web Accessibility & Inclusive Design](https://www.meetup.com/Sydney-Web-Accessibility-Inclusive-Design/)
 
+## Belgium
+
+* [Inclusive Design (in Ghent)](https://www.meetup.com/Inclusive-Design/)
+
 ## Canada
 
 * [#a11yHAM Meetup Group](https://www.meetup.com/a11yHAM-Meetup-Group/)
