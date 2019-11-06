@@ -58,6 +58,7 @@ Sometimes it can be tricky to find a local web accessibility meetup. To help you
 ## USA
 
 * [A11YNYC - Accessibility New York City](https://www.meetup.com/a11ynyc/)
+* [A11yPHL - Philly Accessibility Meetup](https://www.meetup.com/en-AU/a11yphl/)
 * [A11yPrinceton - Princeton Accessibility Meetup](https://www.meetup.com/A11YPrinceton/)
 * [a11yRTP (in Raleigh)](https://www.meetup.com/a11yRTP/)
 * [a11yTC (in Minneapolis)](https://www.meetup.com/a11yTC/)
