@@ -50,9 +50,10 @@ Sometimes it can be tricky to find a local web accessibility meetup. To help you
 
 ## United Kingdom
 
-* [London Accessibility Meetup](https://www.meetup.com/London-Accessibility-Meetup/)
+* [Accessibility Leeds](https://accessibilityleeds.co.uk/)
 * [BS8878 web accessibility community of practice (in London)](https://www.meetup.com/bs8878-web-accessibility/)
 * [Edinburgh Accessibility and Inclusive Design Meetup](https://www.meetup.com/Edinburgh-a11y-Meetup/)
+* [London Accessibility Meetup](https://www.meetup.com/London-Accessibility-Meetup/)
 
 ## USA
 
