@@ -27,6 +27,10 @@ _The article [Accessibility and Inclusive Design In-Person Groups](https://www.l
 
 - [Helsinki Web Accessibility Meetup: #a11yhelsinki](https://www.meetup.com/Helsinki-Web-Accessibility-Meetup/)
 
+## France
+
+- [Paris Web Accessibility](https://www.meetup.com/fr-FR/Paris-Web-Accessibility/)
+
 ## Germany
 
 - [A11y Meetup Berlin](https://www.meetup.com/A11y-Meetup-Berlin/)
