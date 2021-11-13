@@ -11,6 +11,10 @@ _The article [Accessibility and Inclusive Design In-Person Groups](https://www.l
 - [Perth Web Accessibility & Inclusive Design](https://www.meetup.com/Perth-accessibility/)
 - [Sydney Web Accessibility & Inclusive Design](https://www.meetup.com/Sydney-Web-Accessibility-Inclusive-Design/)
 
+## Belarus
+
+- [https://a11yminsk.space/](https://a11yminsk.space/)
+
 ## Belgium
 
 - [Inclusive Design (in Ghent)](https://www.meetup.com/Inclusive-Design/)
@@ -23,6 +27,10 @@ _The article [Accessibility and Inclusive Design In-Person Groups](https://www.l
 - [a11yYOW (in Ottawa)](https://www.meetup.com/a11yOttawa/)
 - [Vancouver Accessibility and Inclusive Design](https://www.meetup.com/a11yYVR/)
 
+## Egypt
+
+- [a11yARB - Arab Digital Accessibility and Inclusion](https://www.meetup.com/a11yarb/)
+
 ## Finland
 
 - [Helsinki Web Accessibility Meetup: #a11yhelsinki](https://www.meetup.com/Helsinki-Web-Accessibility-Meetup/)
@@ -31,6 +39,18 @@ _The article [Accessibility and Inclusive Design In-Person Groups](https://www.l
 
 - [A11y Meetup Berlin](https://www.meetup.com/A11y-Meetup-Berlin/)
 - [Munich Accessibility Meetup](https://www.meetup.com/Munich-Accessibility-Meetup/)
+
+## India
+
+- [Bangalore Design for Accessibility Meetup](https://www.meetup.com/en-AU/Bangalore-Design-for-Accessibility-Meetup/)
+
+## Japan
+
+- [A11yVR - Accessibility Virtual Reality Group](https://www.meetup.com/a11yvr/)
+
+## Kuwait
+
+- [A11YKuwait Meetup](https://www.meetup.com/en-AU/a11ykuwait/)
 
 ## Netherlands
 
@@ -64,6 +84,7 @@ _The article [Accessibility and Inclusive Design In-Person Groups](https://www.l
 - [a11yRTP (in Raleigh)](https://www.meetup.com/a11yRTP/)
 - [a11yTC (in Minneapolis)](https://www.meetup.com/a11yTC/)
 - [Accessibility DC (in Washington DC)](https://www.meetup.com/Accessibility-DC/)
+- [Accessible Web + WordPress (in West Hills)](https://www.meetup.com/Accessible-Web-Wordpress/)
 - [Ann Arbor Web Accessibility](https://www.meetup.com/a2a11y/)
 - [Austin Accessibility and Inclusive Design](https://www.meetup.com/a11yATX/)
 - [Bay Area Accessibility and Inclusive Design (in San Francisco)](https://www.meetup.com/a11ybay/)
@@ -72,6 +93,7 @@ _The article [Accessibility and Inclusive Design In-Person Groups](https://www.l
 - [Accessibility Calgary (A11yYYC)](https://www.meetup.com/Accessibility-Calgary-A11yYYC/)
 - [Chicago Digital Accessibility and Inclusive Design](https://www.meetup.com/a11ychi/)
 - [Cleveland Accessibility Meetup](https://www.meetup.com/Cleveland-Accessibility-Meetup/)
+- [DiverseIT- Making Technology Accessible To All (in Albuquerque)](https://www.meetup.com/diverseit-making-technology-accessible-to-all/)
 - [Fresno Web Accessibility](https://www.meetup.com/Fresno-Web-Accessibility/)
 - [Front Range Accessibility and Inclusive Design](https://www.meetup.com/a11yFR/)
 - [Iowa Web Accessibility, UX & Inclusive Design (in Cedar Rapids)](https://www.meetup.com/Iowa-Web-Accessibility-UX-Inclusive-Design/)
