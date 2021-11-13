@@ -10,6 +10,7 @@ _The article [Accessibility and Inclusive Design In-Person Groups](https://www.l
 - [Canberra Web Accessibility & Inclusive Design](https://www.meetup.com/Canberra-Web-Accessibility-Inclusive-Design/)
 - [Perth Web Accessibility & Inclusive Design](https://www.meetup.com/Perth-accessibility/)
 - [Sydney Web Accessibility & Inclusive Design](https://www.meetup.com/Sydney-Web-Accessibility-Inclusive-Design/)
+- [PDF Accessibility Sydney](https://www.meetup.com/PDF-Accessibility-Sydney/)
 
 ## Belarus
 
@@ -25,6 +26,7 @@ _The article [Accessibility and Inclusive Design In-Person Groups](https://www.l
 - [#a11yTO: Accessibility Toronto](https://www.meetup.com/a11yTo/)
 - [a11yMTL (in Montreal)](https://www.meetup.com/a11ymtl/)
 - [a11yYOW (in Ottawa)](https://www.meetup.com/a11yOttawa/)
+- [Entrepreneurs and Professionals, with Disabilities (in Mississauga)](https://www.meetup.com/Entrepreneurs-Professionals-with-Disabilities/)
 - [Vancouver Accessibility and Inclusive Design](https://www.meetup.com/a11yYVR/)
 
 ## Egypt
@@ -58,6 +60,7 @@ _The article [Accessibility and Inclusive Design In-Person Groups](https://www.l
 
 ## New Zealand
 
+- [Auckland Digital Accessibility and Inclusive Design Meetup](https://www.meetup.com/Auckland-Digital-Accessibility-and-Inclusive-Design-Meetup/)
 - [Wellington Web Accessibility Meetup](https://www.meetup.com/Wellington-Web-Accessibility-Meetup/)
 
 ## Norway
